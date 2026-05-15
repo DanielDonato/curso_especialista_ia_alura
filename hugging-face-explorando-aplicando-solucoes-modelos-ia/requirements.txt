@@ -1,0 +1,15 @@
+transformers
+pysentimiento
+pandas
+plotly
+nltk
+liqfit
+gradio
+Pillow
+torch
+nbformat
+WordCloud
+matplotlib
+scikit-image
+torchvision
+gradio
